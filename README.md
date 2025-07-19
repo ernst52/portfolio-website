@@ -24,4 +24,9 @@ A simple portfolio page with clean UI and a fun little chatbot.
 
 * Interactive chatbot
 ## Live Demo
-https://github.com/user-attachments/assets/6f6223fe-e3d4-4f93-8d52-ed268966309d
+https://ernst-portfolio-website.netlify.app/
+
+## Chatbot Preview
+https://github.com/user-attachments/assets/7e0f89b8-6a35-4ffc-b307-bf6b4a57f8cb
+
+
